@@ -1,0 +1,11 @@
+c:\users\eduardojuliao-mtz\documents\visual studio 2017\Projects\BerlinClockConsole\bin\Debug\BerlinClockConsole.exe.config
+c:\users\eduardojuliao-mtz\documents\visual studio 2017\Projects\BerlinClockConsole\bin\Debug\BerlinClockConsole.exe
+c:\users\eduardojuliao-mtz\documents\visual studio 2017\Projects\BerlinClockConsole\bin\Debug\BerlinClockConsole.pdb
+c:\users\eduardojuliao-mtz\documents\visual studio 2017\Projects\BerlinClockConsole\bin\Debug\BerlinClock.dll
+c:\users\eduardojuliao-mtz\documents\visual studio 2017\Projects\BerlinClockConsole\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\eduardojuliao-mtz\documents\visual studio 2017\Projects\BerlinClockConsole\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\eduardojuliao-mtz\documents\visual studio 2017\Projects\BerlinClockConsole\bin\Debug\BerlinClock.pdb
+c:\users\eduardojuliao-mtz\documents\visual studio 2017\Projects\BerlinClockConsole\bin\Debug\BerlinClock.dll.config
+c:\users\eduardojuliao-mtz\documents\visual studio 2017\Projects\BerlinClockConsole\obj\Debug\BerlinClockConsole.csprojResolveAssemblyReference.cache
+c:\users\eduardojuliao-mtz\documents\visual studio 2017\Projects\BerlinClockConsole\obj\Debug\BerlinClockConsole.exe
+c:\users\eduardojuliao-mtz\documents\visual studio 2017\Projects\BerlinClockConsole\obj\Debug\BerlinClockConsole.pdb

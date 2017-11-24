@@ -1,0 +1,16 @@
+C:\Users\eduardojuliao-mtz\Downloads\DotNetBerlinClock-master\DotNetBerlinClock-master\obj\Debug\BerlinClock.csprojResolveAssemblyReference.cache
+P:\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll.config
+P:\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
+P:\DotNetBerlinClock-master\bin\Debug\BerlinClock.pdb
+P:\DotNetBerlinClock-master\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+P:\DotNetBerlinClock-master\bin\Debug\TechTalk.SpecFlow.dll
+P:\DotNetBerlinClock-master\obj\Debug\BerlinClock.csprojResolveAssemblyReference.cache
+P:\DotNetBerlinClock-master\obj\Debug\BerlinClock.dll
+P:\DotNetBerlinClock-master\obj\Debug\BerlinClock.pdb
+P:\DotNetBerlinClock-master\BerlinClock\bin\Debug\BerlinClock.dll.config
+P:\DotNetBerlinClock-master\BerlinClock\bin\Debug\BerlinClock.dll
+P:\DotNetBerlinClock-master\BerlinClock\bin\Debug\BerlinClock.pdb
+P:\DotNetBerlinClock-master\BerlinClock\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+P:\DotNetBerlinClock-master\BerlinClock\bin\Debug\TechTalk.SpecFlow.dll
+P:\DotNetBerlinClock-master\BerlinClock\obj\Debug\BerlinClock.dll
+P:\DotNetBerlinClock-master\BerlinClock\obj\Debug\BerlinClock.pdb

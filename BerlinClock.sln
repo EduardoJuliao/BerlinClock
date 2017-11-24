@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClock", "BerlinClock.csproj", "{0451204D-BF86-43E1-B560-FC9AC830B9A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClock", "BerlinClock\BerlinClock.csproj", "{0451204D-BF86-43E1-B560-FC9AC830B9A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClockConsole", "c:\users\eduardojuliao-mtz\documents\visual studio 2017\Projects\BerlinClockConsole\BerlinClockConsole.csproj", "{0101B84D-AFB8-4287-B25C-6FAB54CD196B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClockConsole", "BerlinClockConsole\BerlinClockConsole.csproj", "{0101B84D-AFB8-4287-B25C-6FAB54CD196B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
